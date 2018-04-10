@@ -1,5 +1,5 @@
 /* Lab 2 - Buzzfeed
-Chaeyoon Kim
+Chae yoon Kim
 April 9, 2018 */
 
 $(document).ready(function() {
